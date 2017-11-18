@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
  
 
-public class AppTest 
+public class AkashTest 
 	extends TestCase
 {
       public void testSlow() {
